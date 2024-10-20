@@ -1,6 +1,3 @@
-Sure! Here’s a structured content piece for a machine learning project focused on medicine recommendations. This can be used in project documentation, presentations, or reports.
-
----
 
 ### Medicine Recommendation System Using Machine Learning
 
