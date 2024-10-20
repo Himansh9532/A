@@ -1,0 +1,13 @@
+prefix=C:/Users/Himanshu/Desktop/Recommendation/venv1/Library
+exec_prefix=C:/Users/Himanshu/Desktop/Recommendation/venv1/Library
+libdir=C:/Users/Himanshu/Desktop/Recommendation/venv1/Library/lib
+sharedlibdir=C:/Users/Himanshu/Desktop/Recommendation/venv1/Library/lib
+includedir=C:/Users/Himanshu/Desktop/Recommendation/venv1/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
